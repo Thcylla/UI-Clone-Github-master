@@ -29,8 +29,9 @@ $ npm i
 
 # Inicie a aplicação
 $ npm run start
-https://ui-clone-github-sooty.vercel.app/
+
 ```
+https://ui-clone-github-sooty.vercel.app/
 ![Página inicial da aplicação](./docs/page.png)
 
 ## :page_facing_up: Sobre
