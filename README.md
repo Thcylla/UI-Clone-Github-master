@@ -51,5 +51,3 @@ $ npm run start
 - [ ] Utiliza a API do Github em Graphql
 - [ ] Utilizar SWR
  
-## :link: Referências
-[Recriando interface do Github com ReactJS | UI Clone](https://www.youtube.com/watch?v=iLEbGQXsg3k)
