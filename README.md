@@ -50,7 +50,7 @@ O objetivo deste projeto foi replicar a página inicial do Github, consumindo a 
 ## :hammer: Instalação
 ```bash
 # Clone este repositório
-$ git clone https://github.com/rbmelolima/UI-Clone-Github
+$ git clone https://github.com/Thcylla/UI-Clone-Github-master/tree/main
 
 # Entre na pasta raiz
 $ cd UI-Clone-Github
@@ -60,6 +60,8 @@ $ npm i
 
 # Inicie a aplicação
 $ npm run start
+
+https://ui-clone-github-sooty.vercel.app/
 ```
 
 ## :computer: Tecnologias
